@@ -1,0 +1,103 @@
+{
+    "contacts": [
+      {
+        "id": "ca1",
+        "name": "Leanne Graham",
+        "photo": "https://media.istockphoto.com/id/589098830/photo/portrait-of-smiling-teen-boy-outdoors.jpg?s=612x612&w=0&k=20&c=dTrwqhZJHj0V3Oe05bJ2KZoo8rEi4IujCznBZCRRg3g=",
+        "code":"101",
+        "class": "7th",
+        "school": "Brilliance school",
+        "district": "palakkad",
+        "groupId": "2"
+      },
+      {
+        "id": "ca2",
+        "name": "Ervin Howell",
+        "photo": "https://i.pinimg.com/474x/b5/7f/6a/b57f6acea38466fd54af46e3d20d565f.jpg",
+        "code":"102",
+        "class": "4th",
+        "school": "Deckow-Crist school",
+        "district": "Kannur",
+        "groupId": "1"
+      },
+      {
+        "id": "ca3",
+        "name": "Clementine Bauch",
+        "photo": "https://image1.masterfile.com/getImage/NjIyLTA4NTQyOTczZW4uMDAwMDAwMDA=AC2npO/622-08542973en_Masterfile.jpg",
+        "code":"103",
+        "class": "+2",
+        "school": "Romaguera-Jacobson school",
+        "district": "Thrissur",
+        "groupId": "4"
+      },
+      {
+        "id": "ca4",
+        "name": "Patricia Lebsack",
+        "photo": "https://i.pinimg.com/736x/ec/06/c5/ec06c5139310705f3e3c59e207d3189a.jpg",
+        "code":"104",
+        "class": "3rd",
+        "school": "Robel-Corkery school",
+        "district": "palakkad",
+        "groupId": "1"
+      },
+      {
+        "id": "ca5",
+        "name": "Chelsey Dietrich",
+        "photo": "https://i.pinimg.com/564x/30/77/89/3077894cf5529b62f28e915c63e6f948--san-fransisco-status.jpg",
+        "code":"105",
+        "class": "7th",
+        "school": "Keebler LLC school",
+        "district": "Kannur",
+        "groupId": "2"
+      },
+      {
+        "id": "ca6",
+        "name": " Dennis Schulist",
+        "photo": "https://soranews24.com/wp-content/uploads/sites/3/2018/06/la-1.png",
+        "code":"106",
+        "class": "+1",
+        "school": "Considine-Lockman school",
+        "district": "Kollam",
+        "groupId": "4"
+      },
+      {
+        "id": "ca7",
+        "name": "Kurtis Weissnat",
+        "photo": "https://s3.envato.com/files/241332759/MON1095025.jpg",
+        "code":"107",
+        "class": "8th",
+        "school": "Johns-le school",
+        "district": "Kollam",
+        "groupId": "3"
+      },
+      {
+        "id": "ca8",
+        "name": "Nicholas Runolfsdottir V",
+        "photo": "https://i.pinimg.com/474x/99/5f/81/995f8106f7812e5e2ce5419ea006c82b.jpg",
+        "code":"108",
+        "class": "10th",
+        "school": "Abernathy school",
+        "district": "Wayanad",
+        "groupId": "3"
+      }
+      
+    ],
+    "groups": [
+      {
+        "id": "1",
+        "name": "LP"
+      },
+      {
+        "id": "2",
+        "name": "UP"
+      },
+      {
+        "id": "3",
+        "name": "HS"
+      },
+      {
+        "id": "4",
+        "name": "HSS"
+      }
+    ]
+  }
